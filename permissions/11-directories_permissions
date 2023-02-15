@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 777../permissions/
+chmod u+x -R 777../permissions/
