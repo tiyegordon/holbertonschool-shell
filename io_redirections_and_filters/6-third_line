@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A0 is iacta; echo
+grep -A0 is iacta
