@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A0 Tiye iacta
+grep -A3 . iacta
